@@ -7,8 +7,9 @@
 
 安装命令：
 
-wget -O install.sh http://f.cccyun.cc/bt/install_6.0.sh && bash install.sh
-复制
+wget -O install.sh  https://raw.githubusercontent.com/expfukck/baota/main/install_6.0.sh && bash install.sh
+
+
 升级(降级)到7.7版本命令：
 
-curl http://f.cccyun.cc/bt/update6.sh|bash
+curl https://raw.githubusercontent.com/expfukck/baota/main/update6.sh|bash
